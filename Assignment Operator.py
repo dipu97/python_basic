@@ -1,0 +1,13 @@
+x=y=z=3
+m=10
+n=5
+m+=n
+print(m)
+m*=x
+print(m)
+m/=n
+print(m)
+m**=x
+print(m)
+m//=n
+print(m)
